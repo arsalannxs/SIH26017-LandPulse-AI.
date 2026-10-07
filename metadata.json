@@ -1,0 +1,6 @@
+{
+  "name": "LandPulse AI",
+  "description": "Predictive Analytics System for Early Detection of Land Acquisition Delays - Ministry of Rural Development & Department of Land Resources (SIH26017)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
